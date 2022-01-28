@@ -28,7 +28,7 @@ The aim is to provide the following functionality:
 - File access / transfer. Access your DOS machine on the network via NFS/Samba via the Raspberry Pi.
 - A card configuration utility to correctly set up memory / IRQ / DMA channels.
 
-The ISA card will have the following ports for connectivity:
+The ISA card will have the following ports and indicators:
 - One USB 2.0 port for a WiFi card, mouse, keyboard, USB drive, USB hub.
 - A power LED to indicate the status of the Raspberry Pi.
 - An activity LED to indicate communication between the DOS machine and the Raspberry Pi.
