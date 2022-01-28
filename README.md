@@ -35,4 +35,4 @@ The ISA card will have the following ports for connectivity:
 - A power switch to disable the ISA card when not needed.
 
 ## Requirements
-Initially, the aim will be to support 286-based systems and above with a 16-bit ISA card, and at least one usable / free 16-bit ISA DMA channel. Mouse support will be via the Microsoft Mouse drivers over serial. There will need to be  Features will be built-out in order of the feature list described above.
+Initially, the aim will be to support 286-based systems and above with a 16-bit ISA slot, and at least one usable / free 16-bit ISA DMA channel. Mouse support will be via the Microsoft Mouse drivers over serial. Features will be built-out in order of the feature list described above.
